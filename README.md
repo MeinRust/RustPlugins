@@ -10,10 +10,10 @@ Plugins für das Spiel Rust benötigen Oxide!<br/>
 2. **Magic Convoy Panel**<br/>
 -
 -
-4. **Magic Armored Train Event Panel**<br/>
+3. **Magic Armored Train Event Panel**<br/>
 -
 -
-6. **Magic RaidableBase Panel**<br/>
+4. **Magic RaidableBase Panel**<br/>
 
 
 
