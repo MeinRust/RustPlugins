@@ -2,8 +2,8 @@
 Plugins für das Spiel Rust benötigen Oxide!<br/>
 :bangbang: **Magic Panel Erweiterungen** :bangbang:<br/>
 **» Erforderliche Plugins:**<br/>
-    - :link: **MagicPanel:** https://umod.org/plugins/magic-panel
-    - :link: **ImageLibrary:** https://umod.org/plugins/image-library
+    - :link: **MagicPanel:** https://umod.org/plugins/magic-panel<br/>
+    - :link: **ImageLibrary:** https://umod.org/plugins/image-library<br/>
     
 1. **Magic Sputnik Event Panel**<br/>
 **Beschreibung:** Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.
