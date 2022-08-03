@@ -8,4 +8,5 @@ Some Plugins for PC Survival Game Rust That Need Oxide!
 - :link: **MagicPanel:** https://umod.org/plugins/magic-panel
 - :link: **ImageLibrary:** https://umod.org/plugins/image-library
 - :link: **Kostenpflichtig Lone Design:** https://lone.design/product/sputnik/<br />
+
 **Wichtige Info:** Magic Panel Erweiterungen für das Plugin "MagicPanel by MJSU" | Alle Plugins gehören immer noch MJSU wir haben diese nur bearbeitet!
