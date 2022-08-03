@@ -6,20 +6,20 @@ Plugins für das Spiel Rust benötigen Oxide!<br/>
     - :link: **ImageLibrary:** https://umod.org/plugins/image-library<br/>
     
 1. **Magic Sputnik Event Panel**<br/>
-**Beschreibung:** Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.
+**Beschreibung:** Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.<br/>
 **» Zusätzliche erforderliche Plugins:**
   - :link: **Kostenpflichtig Lone Design:** https://lone.design/product/sputnik/<br/><br/>
 2. **Magic Convoy Panel**<br/>
-  **Beschreibung:**
-  **» Zusätzliche erforderliche Plugins:**
+  **Beschreibung:**<br/>
+  **» Zusätzliche erforderliche Plugins:**<br/>
   - :link: **Kostenpflichtig Lone Design:** <br /><br/><br/>
 3. **Magic Armored Train Event Panel**<br/>
-  **Beschreibung:**
-  **» Zusätzliche erforderliche Plugins:**
+  **Beschreibung:**<br/>
+  **» Zusätzliche erforderliche Plugins:**<br/>
     - :link: **Kostenpflichtig Lone Design:** <br /><br/><br/>
 4. **Magic RaidableBase Panel**<br/>
-  **Beschreibung:**
-  **» Zusätzliche erforderliche Plugins:**
+  **Beschreibung:**<br/>
+  **» Zusätzliche erforderliche Plugins:**<br/>
     - :link: **Kostenpflichtig Lone Design:** <br /><br/><br/>
 
 
