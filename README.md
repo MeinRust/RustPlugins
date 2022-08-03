@@ -7,7 +7,9 @@ Plugins für das Spiel Rust benötigen Oxide!<br/>
 - :link: **MagicPanel:** https://umod.org/plugins/magic-panel
 - :link: **ImageLibrary:** https://umod.org/plugins/image-library
 - :link: **Kostenpflichtig Lone Design:** https://lone.design/product/sputnik/<br />
-
+2. **Magic Convoy Panel**<br/>
+3. **Magic Armored Train Event Panel**<br/>
+4. **Magic RaidableBase Panel**<br/>
 
 
 
