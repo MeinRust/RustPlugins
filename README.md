@@ -1,6 +1,6 @@
 # Rust Plugin List
-Some Plugins for PC Survival Game Rust That Need Oxide!
-
+Plugins für das Spiel Rust benötigen Oxide!
+##Magic Panel Erweiterungen##<br/>
 ##:bangbang:**Magic Sputnik Event Panel**:bangbang:<br/>
 **Beschreibung:** Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.
 
