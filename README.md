@@ -1,7 +1,7 @@
 # Rust Plugin List
 Plugins für das Spiel Rust benötigen Oxide!<br/>
 :bangbang: **Magic Panel Erweiterungen** :bangbang:<br/>
-**» Erforderliche Plugins:**
+**» Erforderliche Plugins:**<br/>
     - :link: **MagicPanel:** https://umod.org/plugins/magic-panel
     - :link: **ImageLibrary:** https://umod.org/plugins/image-library
     
