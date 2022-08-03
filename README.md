@@ -2,7 +2,7 @@
 Some Plugins for PC Survival Game Rust That Need Oxide!
 
 1. :bangbang:**Magic Sputnik Event Panel**:bangbang:
-Beschreibung: Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.
+* Beschreibung: Das Sputnik Icon wird farbig angezeigt sobald das Sputnik Event startet und wird wieder ausgeblendet wenn das Sputnik Event beendet wurde.
 » Erforderliche Plugins:
 - :link: **MagicPanel:** https://umod.org/plugins/magic-panel
 - :link: **ImageLibrary:** https://umod.org/plugins/image-library
